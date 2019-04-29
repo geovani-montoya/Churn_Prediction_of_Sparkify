@@ -45,6 +45,8 @@ git clone https://github.com/geovani-montoya/Churn_Prediction_of_Sparkify
 ### Results:
 It turns out that we only needed 7 features to acquire a decent model that will predict churn rates; the logistic regression model was 91% accurate with an F1-Score of 0.87 and the random forest model had an accuracy score of 90% with an F1-score of 0.89. Not bad! Considering there was virtually no tuning to be done and the training was relatively fast (compared to other sophisticated models).
 
+![results](sparkify_assets/page_distribution.png)
+
 <a name="authors"></a>
 ## Authors
 
