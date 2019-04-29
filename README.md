@@ -64,3 +64,4 @@ It turns out that we only needed 7 features to acquire a decent model that will 
 <a name="published"></a>
 ## Publication
 
+https://medium.com/@geovani.m12/churn-predictions-of-sparkify-simple-log-regression-and-good-feature-selection-engineering-does-ebc3e4c412da?source=friends_link&sk=3d54191f0104b5afe06dc6787c2bb462
